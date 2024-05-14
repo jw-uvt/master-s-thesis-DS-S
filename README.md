@@ -23,9 +23,6 @@ In this repository you will find the code and data used for my thesis project. T
    pip install -r requirements.txt
    ```
 
-## Usage
-- [Brief instructions on how to use/run your code]
-
 ## Citation
 If you use any of the software libraries mentioned in this project, please cite them appropriately:
 
@@ -62,8 +59,6 @@ If you use any of the software libraries mentioned in this project, please cite 
 - Python 3.11.5:
   Python Software Foundation. (2024). Python Programming Language, Version 3.11.5. Retrieved from https://www.python.org/downloads/release/python-3115/
 
-## License
-[Specify the license under which your code is released, if applicable.]
 
 ## Acknowledgments
-[Optional section to acknowledge any individuals, institutions, or funding sources that supported your work.]
+I extend my appreciation to Dr. Afra Alishahi for her support and guidance throughout my thesis project. Furthermore, I would like to express my gratitude to #Prof. Dr. The Second Reader# for dedicating their time to review this work.
