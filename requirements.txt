@@ -1,0 +1,9 @@
+python==3.11.5
+numpy==1.26.4
+pandas==2.0.3
+matplotlib==3.7.2
+seaborn==0.12.2
+spacy==3.7.2
+xgboost==2.0.3
+requests==2.31.0
+scikit-learn==1.4.2
