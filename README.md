@@ -1,7 +1,7 @@
-# master-s-thesis-DS-S
-Predicting the Tempo of Justice
+# Predicting-tempo-of-juctice
+Thesis submitted in partial fulfillment of the requirements for the degree of Master of Science in Data Science & Society at the School of Humanities and Digital Sciences of Tilburg University
 
-# Thesis Project README
+# README
 
 ## Overview
 In this repository you will find the code and data used for my thesis project. The project focuses on forecasting case durations at the Court of Justice of the European Union using predictive machine learning
