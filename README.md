@@ -61,4 +61,4 @@ If you use any of the software libraries mentioned in this project, please cite 
 
 
 ## Acknowledgments
-I extend my appreciation to Dr. Afra Alishahi for her support and guidance throughout my thesis project. Furthermore, I would like to express my gratitude to #Prof. Dr. The Second Reader# for dedicating their time to review this work.
+I extend my appreciation to Dr. Alishahi for her support and guidance throughout my thesis project. Furthermore, I would like to express my gratitude to Ir. Zamberlan for dedicating their time to review this work.
